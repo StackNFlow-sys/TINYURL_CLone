@@ -88,7 +88,7 @@ const Header = () => {
 
         <div className='flex'>
           <div className=' bg-white/94 relative top-[80px] right-[-20px] h-[360px] rounded-lg w-[400px]'>
-            <img src="/tinyurl.png" alt="Tiny URL" className='w-[18px] relative top-[20px] left-[15px]'/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/TinyURL.png" alt="Tiny URL" className='w-[19px] relative top-[20px] left-[15px]'/>
             <p className='text-black relative top-[-4px] left-[39px] text-lg cursor-default '>
               Shorten a long URL
             </p>
