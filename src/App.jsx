@@ -1,14 +1,15 @@
 
-import Header from './components/header'
+import React from "react";
+import "./App.css"; // <-- import styles
+import Login from "./login";
+
 
 function App() {
-  return (
-    
-    <div className="bg-[#012C4B] h-[1100px] text-white scroll">
-      <Header />
-    </div>
-  )
-  
+  return (  
+   <div>
+   <Login/>  
+   </div>
+  );
 }
 
-export default App
+export default App;

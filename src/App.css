@@ -1,0 +1,17 @@
+/* App.css */
+.App {
+  text-align: center;
+  padding: 2rem;
+  font-family: Arial, sans-serif;
+}
+
+.App h1 {
+  color: #2c3e50;
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.App p {
+  color: #555;
+  font-size: 1.2rem;
+}
